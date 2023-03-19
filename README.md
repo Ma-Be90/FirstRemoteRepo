@@ -1,0 +1,2 @@
+# FirstRemoteRepo
+GIT od podstaw
