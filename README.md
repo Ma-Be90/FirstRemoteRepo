@@ -1,2 +1,1 @@
-# FirstRemoteRepo
-GIT od podstaw
+# Paragon z warzywniaka
